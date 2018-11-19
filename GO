@@ -1,0 +1,36 @@
+
+<html>
+<body>
+	<body style="background-color: 545454;">
+		<style>
+p {
+    border: 50px solid white;
+    padding: 60px;
+}
+ img {  }
+</style>
+
+
+<h1  align="center" style = "font-size:450%; color:222 184 135; font-family: times new roman"> <b> <i> <em> Grajdanskye oborona </em> </i> </b>  </h1>
+<img src = "https://img.youtube.com/vi/mEr37NO_t3s/0.jpg">
+
+
+<p align="center" style = " font-size:30px; color: #E8E8E8   ">	<i>Grajdanskye oborona (Civil defence,Gr. On. or TH) - Soviet and Russian rock group,
+ founded on November 8, 
+1984 in Omsk by Yegor Letov and Konstantin Ryabinov,
+ the most prominent representative of the Siberian punk rock.
+
+ The music at the initial stage was a punk rock with a strong garage influence,
+
+ preserved throughout the creative activity of the group, 
+and in the 1990s,      
+ her style shifted towards psychedelic rock.
+
+ "Civil defense" was one of the most influential punk rock groups of the USSR and Russia.
+   
+The group disbanded in 2008 after the death of Yegor Letov.</i> </p>
+<iframe align="center" frameborder="0" style="border:none;width:900px;height:600px;" width="900" height="600" src="https://music.yandex.ru/iframe/#album/4784423/">Слушайте <a href='https://music.yandex.ru/album/4784423'>Некрофилия</a> — <a href='https://music.yandex.ru/artist/42528'>Гражданская оборона</a> на Яндекс.Музыке</iframe>
+<!-- This is a comment -->
+</style>
+</body>
+</html>
