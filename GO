@@ -2,20 +2,20 @@
 <html>
 <body>
 	<body style="background-color: 545454;">
-		<style>
-p {
-    border: 50px solid white;
-    padding: 60px;
-}
- img {  }
-</style>
+		
 
 
-<h1  align="center" style = "font-size:450%; color:222 184 135; font-family: times new roman"> <b> <i> <em> Grajdanskye oborona </em> </i> </b>  </h1>
-<img src = "https://img.youtube.com/vi/mEr37NO_t3s/0.jpg">
+<h1  align="center" style = "font-size:450%; color:222 184 135; font-family: times new roman"> <b> <i> <em> Grazhdanskaya Oborona </em> </i> </b>  </h1>
+<img src="https://img.youtube.com/vi/mEr37NO_t3s/0.jpg" alt="Фотография 1" width="300" height="300">
+    <img src="https://avatars.yandex.net/get-music-content/108289/a413f4f4.p.42528/m1000x1000?webp=false" alt="Фотография 2" width="300" height="300">
+    <img src="https://legav.ru/wp-content/uploads/2017/08/1987_totalitarizm_03.jpg" alt="Фотография 3" width="300" height="300">
+    <img src="http://im.kommersant.ru/Issues.photo/CORP/2014/09/09/KMO_143687_00036_1_t218_125553.jpg" alt="Фотография 4" width="300" height="300">
+    
 
 
-<p align="center" style = " font-size:30px; color: #E8E8E8   ">	<i>Grajdanskye oborona (Civil defence,Gr. On. or TH) - Soviet and Russian rock group,
+<p align="center" style = " font-size:30px; color: #E8E8E8 ;border: 50px solid white;
+    padding: 60px;  ">	
+    <i>Grazhdanskaya Oborona (Civil defence,Gr. On. or TH) - Soviet and Russian rock group,
  founded on November 8, 
 1984 in Omsk by Yegor Letov and Konstantin Ryabinov,
  the most prominent representative of the Siberian punk rock.
@@ -29,8 +29,16 @@ and in the 1990s,
  "Civil defense" was one of the most influential punk rock groups of the USSR and Russia.
    
 The group disbanded in 2008 after the death of Yegor Letov.</i> </p>
-<iframe align="center" frameborder="0" style="border:none;width:900px;height:600px;" width="900" height="600" src="https://music.yandex.ru/iframe/#album/4784423/">Слушайте <a href='https://music.yandex.ru/album/4784423'>Некрофилия</a> — <a href='https://music.yandex.ru/artist/42528'>Гражданская оборона</a> на Яндекс.Музыке</iframe>
+
+
+
+<p align="center" style=" color: solid white; font-size: 35px  "> <b> <a href="https://www.youtube.com/watch?v=BjiCIV5idCg"> 
+	Follow the link and view one of the best concerts of the group CIVIL DEFENSE.></a> </b> </p>
+
+<h2 align="center" style = "color: 220220220 ; font-size:: 40px; " <b><u> One of the best album of Grazhdanskaya Oborona . </b></h2> </u>  
+
+<iframe  align="center" frameborder="0" style="border:none;width:1600px;height:600px;" width="900" height="600" src="https://music.yandex.ru/iframe/#album/4784423/"> <a href='https://music.yandex.ru/album/4784423'>Necrophilia </a> — <a href='https://music.yandex.ru/artist/42528'>Grazhdanskaya Oborona</a> </iframe>
 <!-- This is a comment -->
 </style>
 </body>
-</html>
+</html> 
